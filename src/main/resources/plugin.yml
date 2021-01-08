@@ -1,0 +1,6 @@
+name: ${project.name}
+version: ${project.version}
+main: br.motion.motionlocais.Core
+authors: [slkhater, FalaHaTEr]
+description: ${project.description}
+depend: [PlaceholderAPI, WorldGuard, WGRegionEvents]

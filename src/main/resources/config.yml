@@ -1,0 +1,6 @@
+local-desconhecido: "&cDesconhecido" #NOME PARA AS REGIÕES DESCONHECIDAS
+delay: 1 #DELAY EM SEGUNDOS PARA QUANDO O JOGADOR SAIR DE UMA REGIÃO RECONHECER EM QUAL REGIÃO ELE ESTÁ
+regions: #REGIÕES COM NOME DO LOCAL A SER APLICADO
+  inicio: "&eÍnicio"
+  comercio: "&eComércio"
+  mina: "&eMina"
